@@ -1,4 +1,4 @@
-# Cybersecurity Internship Projects
+# Cybersecurity Internship Project
 
 This repository contains all the tasks I completed during my cybersecurity internship. These projects demonstrate practical applications of cybersecurity concepts and techniques, showcasing my skills in encryption, password security, network analysis, and ethical programming practices. Below are the detailed descriptions of each task included in this repository:
 
